@@ -13,11 +13,11 @@ body {
 .container {
   border: 1px solid #000;
   padding: 2rem;
-  margin: 2rem 30rem;
+  margin: 2rem 30%;
 }
 
 .header {
-  padding: 0 0 2rem 2rem;
+  padding-bottom: 2rem;
 }
 
 .main {
@@ -25,7 +25,7 @@ body {
 }
 
 .gallery {
-  padding: 0 2rem;
+  padding-right: 2rem;
   display: inline;
   float: left;
 }
@@ -38,7 +38,6 @@ body {
 }
 
 .right {
-  padding-left: 2rem;
   line-height: 2rem;
   text-align: justify;
 }
